@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-CodCraft/",
+    "build": "vite build --base=/html_css-93-AlekseyYarina/",
     "preview": "vite preview"
   },
   "devDependencies": {
